@@ -1,0 +1,38 @@
+.calc{
+    width: 500px;
+    height: 650px;
+    background-color: black;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+#screen{
+    margin-left: 64px;
+    margin-top: 15px;
+    width: 374px;
+    height: 51px;
+    pointer-events: none;
+}
+.btn{
+    margin-left: 52px;
+    width: 56px;
+    height: 58px;
+    border-radius: 29px;
+    border-style: inherit;
+    cursor:pointer;
+    
+}
+.row{
+    padding-top: 35px;
+}
+#colour{
+    background-color: orangered;
+}
+.head{
+    color: white;
+    margin-left: 196px;
+    padding-top: 14px;
+    width: 30px;
+}
+.top{
+    padding-top: 5px;
+}
